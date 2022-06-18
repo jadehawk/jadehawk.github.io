@@ -1,8 +1,10 @@
 ---
 title: Creating and Hosting this website
-categories: [educational, jekyll]
+category: jekyll
 tags: [jekyll, ruby, github-pages]
 ---
+
+[![YouTube](/assets/images/Thumbnail-yt.png)](https://youtu.be/5z7_qp0CWBY)
 
 Creating this static site with [Jekyll](https://jekyllrb.com/) (On Windows) and using a custom Theme [Jekyll-Theme-Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) and hosting it on Github became more of an adventure than I expected.
 I watched a few youtube videos and they all worked great (on their side) but they where usually on a Linux or a MAC computer and only one of them by [Techno Tim](https://youtu.be/F8iOU1ci19Q) (which is the reason I even attempted this) included the use of a custom theme.
