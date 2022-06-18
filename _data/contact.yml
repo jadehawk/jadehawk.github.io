@@ -3,13 +3,17 @@
 -
   type: github
   icon: 'fab fa-github'
+#-
+#  type: twitter
+#  icon: 'fab fa-twitter'
+#-
+#  type: email
+#  icon: 'fas fa-envelope'
+#  noblank: true            # open link in current tab
 -
-  type: twitter
-  icon: 'fab fa-twitter'
--
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
+  type: youtube
+  icon: 'fab fa-youtube'
+  url: 'https://youtube.com/user/jadehawk'
 -
   type: rss
   icon: 'fas fa-rss'

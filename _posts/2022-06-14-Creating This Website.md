@@ -1,5 +1,7 @@
 ---
 title: Creating and Hosting this website
+categories: [educational, jekyll]
+tags: [jekyll, ruby, github-pages]
 ---
 
 Creating this static site with [Jekyll](https://jekyllrb.com/) (On Windows) and using a custom Theme [Jekyll-Theme-Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) and hosting it on Github became more of an adventure than I expected.
